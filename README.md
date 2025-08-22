@@ -61,11 +61,15 @@ Generated images and model checkpoints will be saved inside the respective outpu
 
 ## 📊 Results Preview
 
-**Vanilla GAN (MNIST)**  
-![MNIST output](assets/vanilla_gan_mnist.png)
+**Vanilla GAN (MNIST)** 
+<p>
+  <img src="assets/vanilla_gan_mnist.png" alt="MNIST output" width="400"/>
+</p>
 
-**DCGAN (Fashion-MNIST)**  
-![Fashion output](assets/dcgan_fashion_mnist.png)
+**DCGAN (Fashion-MNIST)** 
+<p>
+  <img src="assets/dcgan_fashion_mnist.png" alt="Fashion output" width="400"/>
+</p>
 
 ---
 
