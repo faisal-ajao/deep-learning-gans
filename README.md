@@ -1,4 +1,4 @@
-# 🎨 Deep Learning GANs
+# Deep Learning GANs
 
 This repository contains implementations of **Generative Adversarial Networks (GANs)** from scratch using Tensorflow / keras.  
 It includes two classic experiments:
@@ -10,7 +10,7 @@ Both implementations include Jupyter notebooks and equivalent Python scripts, wi
 
 ---
 
-## 🚀 Features
+## Features
 - Vanilla GAN trained on MNIST dataset.
 - DCGAN trained on Fashion-MNIST dataset.
 - Both notebook (`.ipynb`) and script (`.py`) versions.
@@ -19,7 +19,7 @@ Both implementations include Jupyter notebooks and equivalent Python scripts, wi
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the notebooks interactively:
 
@@ -59,7 +59,7 @@ Generated images and model checkpoints will be saved inside the respective outpu
 
 ---
 
-## 📊 Results Preview
+## Results Preview
 
 **Vanilla GAN (MNIST)** 
 <p>
@@ -73,7 +73,7 @@ Generated images and model checkpoints will be saved inside the respective outpu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 deep-learning-gans/
 ├── README.md
@@ -93,7 +93,7 @@ deep-learning-gans/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.10
 - Tensorflow / Keras
 - NumPy
@@ -101,5 +101,5 @@ deep-learning-gans/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
